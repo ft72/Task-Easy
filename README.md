@@ -31,7 +31,7 @@ To use TaskEase, follow these steps:
 **2.** Clone this repository to your local machine inside the `xampp/htdocs` folder:
 
 ```
-git clone https://github.com/Ankurac7/TaskEase.git
+git clone https://github.com/ft72/Task-Easy.git
 ```
 
 **3.** Always take a pull from the repository to the master branch to keep it at par with the main project(updated repository).
