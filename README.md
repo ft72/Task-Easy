@@ -18,8 +18,8 @@ TaskEase is a user-friendly and modular web-based Task Management application, b
 </div>
 
 ## Additionals
-- **Project Report:** [Report.pdf](https://github.com/Ankurac7/TaskEase/files/12921314/Report.pdf)
-- **PPT:** [TaskEase.pdf](https://github.com/Ankurac7/TaskEase/files/12921332/TaskEase.pdf)
+- **Project Report:** [Report.pdf](https://github.com/ft72/Task-Easy/files/12921314/Report.pdf)
+- **PPT:** [TaskEase.pdf](https://github.com/ft72/Task-Easy/files/12921332/TaskEase.pdf)
 - **Demo Video:** [Explainer Video](https://youtu.be/b87WPcA-0rU?si=KceZpQRUnW_aDY4u)
 
 ## Installation
@@ -41,4 +41,4 @@ git pull origin master
 ```
 **4.** Perform your desired changes to the code base.(if any)
 
-**5.** Create the required database and tables as given in [tms_db.sql](https://github.com/Ankurac7/TaskEase/blob/master/tms_db.sql)
+**5.** Create the required database and tables as given in [tms_db.sql](https://github.com/ft72/Task-Easy/blob/master/tms_db.sql)
